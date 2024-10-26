@@ -7,3 +7,22 @@
     justify-content: center;
     padding: auto;
 }
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    box-shadow: 1px;
+}
+.navitems {
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    padding:2px;
+}
+
+button{
+    color: gray;
+    background-color: lightblue;
+}
+
