@@ -1,6 +1,10 @@
 #logo{
-    width: 150px;
+    width: 120px;
     height: 30px;
+}
+
+#img{
+    width: 1000px;
 }
 
 .navbar {
@@ -33,12 +37,25 @@ h1{
     display: flex;
     justify-content: center;
     padding-top: 20px;
+    font-family: "Inter",serif;
+    margin-top: 0px;
+  font-weight: 500;
+  color: #424242;
 }
+
 
 h2{
     display: flex;
     justify-content: center;
     padding-top: 2px;
+    font-family: "Inter",serif;
+    color: #424242;
+    font-size: 1.25rem;
+  font-weight: 400;
+  margin-top: 10px;
+  line-height: 1.8;
+  margin-bottom: 15px;
+
 }
 
 #signup{
