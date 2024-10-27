@@ -41,8 +41,18 @@ h2{
     padding-top: 2px;
 }
 
-button{
-    color: gray;
-    background-color: lightblue;
+#signup{
+    color: #fff;
+    background-color: #387ed1;
+    cursor: pointer;
+    border-radius: 3px;
+    border: 1px solid rgba(0,0,0,0);
+    text-align: center;
+    padding: 20px;
+  font-size: 1.2em;
+  line-height: 1.2em;
+  font-weight: 500;
+  font-family: "Inter",serif;
+  margin-top: 25px;
 }
 
